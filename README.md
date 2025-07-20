@@ -2,4 +2,4 @@
 first git repository
 <br>
 author - Prakhar Bansal
-git config global user.email
+git config --global user.email
